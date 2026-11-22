@@ -1,4 +1,4 @@
-#SkyPoints – Airline Loyalty Data Engineering Pipeline
+# SkyPoints – Airline Loyalty Data Engineering Pipeline
 
 ## Project Overview
 
